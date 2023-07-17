@@ -1,0 +1,5 @@
+.env
+/node_modules
+Discord-Bot.exe
+index-linux
+index-macos
